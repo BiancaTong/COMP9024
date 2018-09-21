@@ -1,1 +1,1 @@
-# COMP9024
+Data Structure with C
